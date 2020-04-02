@@ -127,4 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-Final/download_dataset.py
+
+# Datasets
+Final\genres.tar.gz
+Final\music_speech.tar.gz
