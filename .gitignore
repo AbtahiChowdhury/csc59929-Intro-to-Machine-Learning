@@ -130,5 +130,15 @@ dmypy.json
 
 # Datasets
 Final/genres.tar.gz
-Final/music_speech.tar.gz
 Final/genres/
+Final/music_speech.tar.gz
+Final/music_speech/
+Final/data.json
+Final/fma_small.zip
+Final/fma_small/
+Final/fma_medium.zip
+Final/fma_medium/
+Final/fma_large.zip
+Final/fma_large/
+Final/fma_full.zip
+Final/fma_full/
